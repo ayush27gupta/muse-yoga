@@ -17,3 +17,10 @@
 .nav-head {
   color: black;
 }
+
+@media (min-width: 360px) and (max-width: 767px) {
+  .nav-container-custom {
+    width: 70%;
+    color: white;
+  }
+}

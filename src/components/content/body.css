@@ -6,7 +6,7 @@
 .container-body {
   border: 2px inset white;
   height: 32rem;
-  width: 50%;
+  width: 55%;
   display: flex;
   flex-direction: column;
   /* background-color: rgb(250, 208, 174); */
@@ -39,4 +39,39 @@
 
 .body-btn {
   border-radius: 1rem;
+}
+
+@media (min-width: 360px) and (max-width: 767px) {
+  .container-body {
+    /* border: 2px inset white; */
+    height: 33rem;
+    width: 70%;
+  }
+
+  .head-body {
+    margin-top: 20px;
+    font-size: 1.5rem;
+  }
+
+  .sub-head-body {
+    font-weight: 400;
+    font-size: 1.2rem;
+  }
+
+  .inp-body {
+    margin: 0.5rem;
+  }
+
+  .para-body-btn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .body-btn {
+    height: 80px;
+    width: 200px;
+    margin: 10px 0;
+  }
 }

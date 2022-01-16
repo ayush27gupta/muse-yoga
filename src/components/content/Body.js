@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { Link } from "react-router-dom";
+
 import "../content/body.css";
 
 function Body() {
@@ -15,6 +15,9 @@ function Body() {
   const handleClick = (e) => {
     const heartRate = e.target.value;
     navigate("/music", { state: { heartRate: heartRate } });
+  };
+  const handleClick2 = (e) => {
+    navigate("/yoga");
   };
 
   return (
@@ -41,13 +44,12 @@ function Body() {
           >
             Listen to Music
           </button>
-          <Link
+          <button
             className="btn btn-success btn-lg body-btn"
-            to="/yoga"
-            role="button"
+            onClick={handleClick2}
           >
-            Get your body moving with Yoga
-          </Link>
+            Do some Yoga
+          </button>
         </p>
       </div>
     </div>
