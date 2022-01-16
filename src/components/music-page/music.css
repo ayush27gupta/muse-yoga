@@ -1,0 +1,14 @@
+.music-main {
+  display: flex;
+  justify-content: center;
+}
+
+.container-music {
+  border: 2px inset white;
+  height: 35rem;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  /* background-color: rgb(250, 208, 174); */
+  border-radius: 1rem;
+}
