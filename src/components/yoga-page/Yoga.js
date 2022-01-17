@@ -1,10 +1,14 @@
 import React from "react";
 import "../yoga-page/yoga.css";
+// import { useLocation } from "react-router-dom";
 
 function Yoga() {
+  //   const loc = useLocation();
+  //   const heartRate = loc.state.heartRate;
   return (
     <div className="yoga-main">
       <div className="container-yoga">
+        {/* <h3>{`Your heart Rate is ${heartRate}`}</h3> */}
         <div
           id="carouselExampleControls"
           className="carousel slide cara-yoga"

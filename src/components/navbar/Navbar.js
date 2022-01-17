@@ -15,7 +15,7 @@ function Navbar() {
               height="24"
               className="d-inline-block align-text-top mx-3 img-nav"
             />
-            <span className="nav-head">Muse-Yoga</span>
+            <span className="nav-head">Mental-Yog</span>
           </Link>
         </div>
       </nav>
