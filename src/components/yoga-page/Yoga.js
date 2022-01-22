@@ -16,127 +16,179 @@ function Yoga() {
         >
           <div className="carousel-inner yoga-inner-cara">
             <div className="carousel-item active">
+              <strong>1. Standing forward bend</strong>
+              <br />
+              <br />
               <img
-                src="https://i.ndtvimg.com/i/2015-10/tadasana_625x350_81444284309.jpg"
+                src="https://www.fountainhead.com.au/wp-content/uploads/2016/07/standing-forward-bend-yoga-pose-1024x780.jpg"
                 alt="First slide"
                 className="img-yoga"
               />
-              <p>
-                <span className="yoga-det">1. Tadasana (Mountain Pose):</span>{" "}
-                This pose teaches one to stand with majestic steadiness like a
-                mountain. The word ‘Tada' means a mountain, that's where the
-                name comes from. It involves the major groups of muscles and
-                improves focus and concentration. It is the starting position
-                for all the other asanas.Stand with your heels slightly apart
-                and hang your arms besides the torso. Gently lift and spread
-                your toes and the balls of your feet, then lay them softly down
-                on the floor. Balance your body weight on your feet. Lift your
-                ankles and firm your thigh muscles while rotating them inwards.
-                As you inhale, elongate your torso and when you exhale release
-                your shoulder blades away from your head. Broaden your
-                collarbone and elongate your neck. Your ears, shoulders, hips
-                and ankles should all be in one line. You can check your
-                alignment by standing against the wall initially. You can even
-                raise your hands and stretch them. Breathe easy.
-              </p>
+              <strong>How to do the pose:</strong>
+              <br />
+              Reach tall and exhale forward, then bend knees enough to be able
+              to place your palms on the floor, with head pressed against your
+              legs. Be aware of your spine stretching in different directions as
+              you pull your head down and in. For a deeper stretch, try to
+              straighten the legs. Hold this pose for 6-8 breaths, then whilst
+              inhaling, stretch arms outwards and raise them and your torso back
+              to the standing position
+              <br />
+              <br />
+              <strong>Benefits of this pose:</strong>
+              <ul>
+                <li>Stretches hamstrings, thighs and hips</li>
+                <li>
+                  Effective for stress relief, fatigue and mild depression.
+                </li>
+              </ul>
             </div>
             <div className="carousel-item yoga-inner-cara">
+              <span className="yoga-det">2. Easy Pose </span>
+              <br />
+              <br />
               <img
                 className="d-block w-100 img-yoga"
-                src="https://i.ndtvimg.com/i/2015-10/vrikshasna_625x350_51444284336.jpg"
+                src="https://www.fountainhead.com.au/wp-content/uploads/2016/07/easy-yoga-pose-1024x800.jpg"
                 alt="Second slide"
               />
-              <p>
-                <span className="yoga-det">2. Vrikshasana (Tree Pose)</span>
-                This pose gives you a sense of grounding. It improves your
-                balance and strengthens your legs and back. It replicates the
-                steady stance of a tree. Place your right foot high up on your
-                left thigh. The sole of the foot should be flat and placed
-                firmly. Keep your left leg straight and find your balance. While
-                inhaling, raise your arms over your head and bring your palms
-                together. Ensure that your spine is straight and take a few deep
-                breaths. Slowly exhale, bring your hands down and release your
-                right leg. Back in the standing position repeat the same with
-                the other leg.
-              </p>
+              <strong>
+                How to do the pose: <br />
+              </strong>
+              Sit up straight, then extend your legs in front of your body, then
+              with knees wide, place each foot beneath the opposite knee and
+              cross your legs in toward your torso.&nbsp;With palms down, place
+              hands onto your knees.&nbsp;Align head, neck, and spine together
+              and sit with your weight balanced. Lengthen spine, but soften your
+              neck and gently relax your feet and thighs.&nbsp;Stay in this
+              position for about a minute, then gently release and change the
+              cross of your legs.
+              <br />
+              <strong>Benefits of this pose:</strong>
+              <ul>
+                <li>Opens hips, lengthens spine and promotes serenity</li>
+                <li>Relieves physical and mental exhaustion</li>
+                <li>Eliminates anxiety.</li>
+              </ul>
             </div>
             <div className="carousel-item yoga-inner-cara">
+              <p>
+                <strong> 3. Corpse pose&nbsp;</strong>
+              </p>
               <img
                 className="d-block w-100 img-yoga"
-                src="https://i.ndtvimg.com/i/2015-10/adho-mukho_625x350_81444284366.jpg"
+                src="https://www.fountainhead.com.au/wp-content/uploads/2016/07/corpse-yoga-pose-1024x728.jpg"
                 alt="Third slide"
               />
-              <p>
-                <span className="yoga-det">
-                  3. Adho Mukho Svanasana (Downward Facing Dog Pose):
-                </span>
-                This pose stretches hamstrings, chest and lengthens the spine,
-                providing additional blood flow to the head. It is will leave
-                you feeling energised. Sit on your heels, stretch your arms
-                forward on the mat and lower your head. Form a table, like
-                pushing your hands, strengthening your legs and slowly raising
-                your hips. Press your heels down, let your head hand freely and
-                tighten your waist.
-              </p>
+              <>
+                <p>
+                  <strong>How to do the pose:</strong>
+                </p>
+                <p>
+                  Lie flat on back with legs close together but without
+                  touching, arms at sides with palms facing up.&nbsp;Let eyes
+                  and face soften and close eyes, while breathing
+                  deeply.&nbsp;Starting at the top of your head, bring your
+                  attention to each part of your body until you reach your
+                  toes.&nbsp;Hold this position for 4-5 minutes.
+                </p>
+                <p>
+                  <strong>Benefits of this pose:</strong>
+                </p>
+                <ul>
+                  <li>Full body relaxation by putting body at ease</li>
+                  <li>
+                    Slows breathing, lowers blood pressure and quietens the
+                    nervous system.
+                  </li>
+                </ul>
+              </>
             </div>
             <div className="carousel-item yoga-inner-cara">
+              <p>
+                <strong>4. Head to knee forward bend</strong>
+              </p>
               <img
                 className="d-block w-100 img-yoga"
-                src="https://i.ndtvimg.com/i/2015-10/naukasana_625x350_41444285027.jpg"
+                src="https://www.fountainhead.com.au/wp-content/uploads/2016/07/head-to-knee-forward-bend-yoga-pose-1024x753.jpg"
                 alt="Fourth slide"
               />
+
               <p>
-                <span className="yoga-det">4. Naukasana (Boat Pose):</span>
-                It tightens the abdominal muscles and strengthens shoulders and
-                upper back. It leaves the practitioner with a sense of
-                stability. Lie back on the mat with your feet together and hands
-                by your side. Take a deep breath and while exhaling gently lift
-                your chest and feet off the ground. Stretch your hands in the
-                direction of your feet. Your eyes, fingers and toes should be in
-                one line. Hold till you feel some tension in your navel area as
-                your abdominal muscles begin to contract. As you exhale, come
-                back to the ground and relax.
+                <strong>How to do the pose:</strong>
               </p>
+              <p>
+                Sit straight with legs extended, bend left leg and bring the
+                sole of your foot to the upper inside right thigh. Your left
+                knee should rest on the floor.&nbsp;Put both palms on either
+                side of right leg and inhale.&nbsp;Turn towards the extended leg
+                and exhale while folding forward.&nbsp;Hold for 5-6 breaths and
+                repeat the pose on the other side.
+              </p>
+              <p>
+                <strong>Benefits of this pose:</strong>
+              </p>
+              <ul>
+                <li>Relieves mild depression and anxiety</li>
+                <li>
+                  Calms the brain and helps with headaches and fatigue, even
+                  insomnia.
+                </li>
+              </ul>
             </div>
             <div className="carousel-item yoga-inner-cara">
+              <span className="yoga-det">5. Bridge pose :</span>
+              <br />
               <img
                 className="d-block w-100 img-yoga"
-                src="https://i.ndtvimg.com/i/2015-10/cobra-pose-yoga_625x350_61444378786.jpg"
+                src="https://www.fountainhead.com.au/wp-content/uploads/2016/07/bridge-yoga-pose-1024x673.jpg"
                 alt="Fifth slide"
               />
               <p>
-                <span className="yoga-det">5. Bhujangasana (Cobra Pose):</span>
-                This one will strengthen the lower back muscles while cushioning
-                the spine, triceps and opens the chest to promote the
-                inhalations. It also makes the spine flexible.Lie on your
-                stomach with your feet together and toes flat. Place your hands
-                downwards below your shoulders on the mat, lift your waist and
-                raise your head while inhaling in. Pull your torso back with the
-                support of your hands. Keep your elbows straight and make sure
-                you put equal pressure on both palms. Tilt your head back and
-                make sure your shoulders are away from your ears. Exhale while
-                coming back to the ground.
+                <strong>How to do the pose:</strong>
               </p>
+              <p>
+                Lie flat on back and bend both knees, place feet flat on the
+                floor at hip width apart. Slide arms alongside the body with
+                palms facing down.&nbsp;Inhale and lift the hips up, rolling
+                spine off the floor. Squeeze knees lightly together to keep the
+                knees hip width apart.&nbsp;Press down into the arms and
+                shoulders to open the chest upwards. Engage legs and buttocks to
+                lift the hips higher.&nbsp;Breathe and hold for 4-8 breaths.
+              </p>
+              <p>
+                <strong>Benefits of this pose:</strong>
+              </p>
+              <ul>
+                <li>Reduces anxiety, fatigue, backaches and insomnia</li>
+                <li>Provides gentle stretching of the legs and back.</li>
+              </ul>
             </div>
             <div className="carousel-item yoga-inner-cara">
+              <span className="yoga-det">6. Childs pose</span>
               <img
                 className="d-block w-100 img-yoga"
-                src="https://i.ndtvimg.com/i/2015-10/sukhasana_625x350_61444286107.jpg"
+                src="https://www.fountainhead.com.au/wp-content/uploads/2016/07/childs-yoga-pose-1024x710.jpg"
                 alt="Fourth slide"
               />
               <p>
-                <span className="yoga-det">6. Sukhasna:</span>
-                Sukhasna is a comfortable position for pranayama and meditation.
-                It gives the practitioner a centering effect. All the other
-                asnas are done to eventually make the body feel comfortable to
-                be able to sit in this position for meditation. This asna takes
-                the yoga practice beyond its physical dimension and helps you
-                get in touch with your spiritual side. Sit comfortably on the
-                mat with crossed legs (left leg tugged inside the right thigh
-                and right leg tugged inside the left thigh). Keep spine
-                straight. Place your hands on your knees. You can use the Jnana
-                mudra or Chin mudra. Relax your body and breathe gently.
+                <strong>How to do the pose:</strong>
               </p>
+              <p>
+                Kneel on a yoga mat with legs together and slowly sit back onto
+                heels.&nbsp;Extend torso up and bend forward from the hips so
+                your chest rests on your thighs and your forehead rests on the
+                ground in front of you.&nbsp;Let shoulders curl around and rest
+                hands next to your feet with your palms up.&nbsp;Hold this
+                position for 5 – 6 breaths.
+              </p>
+              <p>
+                <strong>Benefits of this pose:</strong>
+              </p>
+              <ul>
+                <li>Quietens the nervous system and lymphatic system</li>
+                <li>The resting posture eases stress and soothes the mind.</li>
+              </ul>
             </div>
           </div>
           <a

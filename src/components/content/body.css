@@ -25,6 +25,12 @@
   text-align: center;
 }
 
+.para-head {
+  border: 5px inset white;
+  width: 50%;
+  margin: auto;
+}
+
 .inp-body {
   margin: 1rem;
   text-align: center;
