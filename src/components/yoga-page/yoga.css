@@ -38,3 +38,15 @@
 .ic-cara {
   color: black;
 }
+
+@media (min-width: 360px) and (max-width: 767px) {
+  .container-yoga {
+    /* border: 2px inset white; */
+    height: 35rem;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    /* background-color: rgb(250, 208, 174); */
+    border-radius: 1rem;
+  }
+}
