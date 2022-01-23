@@ -50,8 +50,14 @@
 @media (min-width: 360px) and (max-width: 767px) {
   .container-body {
     /* border: 2px inset white; */
-    height: 33rem;
-    width: 70%;
+    height: 45rem;
+    width: 90%;
+  }
+  .para-head {
+    border: 3px inset white;
+    width: 80%;
+    margin: auto;
+    height: 90%;
   }
 
   .head-body {
@@ -76,7 +82,7 @@
   }
 
   .body-btn {
-    height: 80px;
+    height: 105px;
     width: 200px;
     margin: 10px 0;
   }
